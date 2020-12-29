@@ -20,7 +20,8 @@ https://p-hunermund.com/2019/05/06/causal-data-science-in-business/
 
 https://towardsdatascience.com/introduction-to-causality-in-machine-learning-4cee9467f06f
 
-https://www.altdeep.ai/p/causal-ml-minicourse
+https://www.altdeep.ai/p/causal-ml-minicourse 
+https://github.com/robertness/causalML/blob/master/tutorials/3-counterfactual/counterfactual_donuts_tutorial.ipynb
 
 https://nips.cc/virtual/2020/public/invited_16169.html
 
