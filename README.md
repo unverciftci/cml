@@ -37,3 +37,8 @@ https://github.com/pgmpy/pgmpy
 
 https://github.com/jtextor/dagitty
 
+https://arxiv.org/pdf/2007.10152.pdf
+
+
+
+
