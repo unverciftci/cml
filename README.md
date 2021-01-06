@@ -34,3 +34,6 @@ https://github.com/grf-labs/grf
 https://github.com/uber/causalml
 
 https://github.com/pgmpy/pgmpy
+
+https://github.com/jtextor/dagitty
+
