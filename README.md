@@ -43,5 +43,5 @@ https://github.com/biomedia-mira/deepscm
 
 https://github.com/xunzheng/notears
 
-
+https://medium.com/data-science-at-microsoft/causal-inference-part-1-of-3-understanding-the-fundamentals-816f4723e54a
 https://arxiv.org/pdf/2012.09092.pdf
