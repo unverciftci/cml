@@ -63,4 +63,8 @@ https://www.inference.vc/untitled/
 
 https://fabiandablander.com/r/Causal-Inference.html
 
+https://fairmlbook.org/
+
+https://mlstory.org/causal-practice.html
+
 
