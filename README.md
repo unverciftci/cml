@@ -67,4 +67,8 @@ https://fairmlbook.org/
 
 https://mlstory.org/causal-practice.html
 
+https://causalscience.org/blog/what-is-causal-data-fusion
+
+https://blog.ml.cmu.edu/2020/08/31/7-causality/
+
 
