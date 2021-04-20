@@ -71,4 +71,6 @@ https://causalscience.org/blog/what-is-causal-data-fusion
 
 https://blog.ml.cmu.edu/2020/08/31/7-causality/
 
+https://bookdown.org/connect/#/apps/2584/access
 
+https://resources.flowcast.ai/resources/causal-intelligence-in-machine-learning/
