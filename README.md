@@ -74,3 +74,11 @@ https://blog.ml.cmu.edu/2020/08/31/7-causality/
 https://bookdown.org/connect/#/apps/2584/access
 
 https://resources.flowcast.ai/resources/causal-intelligence-in-machine-learning/
+
+https://arxiv.org/pdf/1705.08821.pdf
+
+https://github.com/AWehenkel/Graphical-Normalizing-Flows
+
+https://arxiv.org/pdf/1906.02226.pdf
+
+https://arxiv.org/abs/1809.09337
