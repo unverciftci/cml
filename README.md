@@ -82,3 +82,7 @@ https://github.com/AWehenkel/Graphical-Normalizing-Flows
 https://arxiv.org/pdf/1906.02226.pdf
 
 https://arxiv.org/abs/1809.09337
+
+https://nickchk.com/causalitybook.html
+
+
