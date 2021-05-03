@@ -85,4 +85,10 @@ https://arxiv.org/abs/1809.09337
 
 https://nickchk.com/causalitybook.html
 
+https://github.com/IBM/causallib
+
+https://github.com/lujonathanh/BETS
+
+https://github.com/ronikobrosly/causal-curve
+
 
