@@ -6,6 +6,8 @@ https://github.com/jrfiedler/causal_inference_python_code
 
 https://theeffectbook.net/
 
+https://www.bradyneal.com/causal-inference-course
+
 causalnex
 https://github.com/quantumblacklabs/causalnex
 
