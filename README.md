@@ -85,7 +85,7 @@ https://arxiv.org/pdf/1906.02226.pdf
 
 https://arxiv.org/abs/1809.09337
 
-https://nickchk.com/causalitybook.html
+https://mixtape.scunning.com/
 
 https://github.com/IBM/causallib
 
