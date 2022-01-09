@@ -31,6 +31,8 @@ https://nips.cc/virtual/2020/public/invited_16169.html
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiK97jXnqT1AhX8SvEDHTZ5C8IQFnoECAQQAQ&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs42256-020-0218-x&usg=AOvVaw1tIZXDXhg2r9fWnKakQScc
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjKhay3n6T1AhWNS_EDHZlYA88QFnoECAYQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F2102.12353&usg=AOvVaw040PYsOOYFT_0l40W9KAF3
+
 https://causalinference.gitlab.io/books/
 
 https://github.com/Microsoft/dowhy
