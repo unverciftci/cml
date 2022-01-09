@@ -29,9 +29,21 @@ https://github.com/robertness/causalML/blob/master/tutorials/3-counterfactual/co
 
 https://nips.cc/virtual/2020/public/invited_16169.html
 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjQ-9D-oaT1AhW_R_EDHXfWAO0QFnoECAQQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F2009.13472&usg=AOvVaw1u7rcNSEzm3HYYMhFeGSXe
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiSuOucoaT1AhXvQvEDHc5ZC64QFnoECAUQAQ&url=https%3A%2F%2Facademic.oup.com%2Fectj%2Farticle%2F21%2F1%2FC1%2F5056401&usg=AOvVaw1N8XUu73y9T7t7ufju__zD
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwio1YmWoqT1AhVBSvEDHaRCDFIQFnoECAQQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F2004.08697&usg=AOvVaw2AfQIf7K8gpSKxREuNPafv
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiQxNHAoqT1AhXGR_EDHWTbCrUQFnoECAQQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F2112.02761&usg=AOvVaw2gfEGCjez4OtOWrApgwNEa
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj69pneoaT1AhWiSvEDHRxBB6wQFnoECAoQAw&url=https%3A%2F%2Farxiv.org%2Fabs%2F2109.11990&usg=AOvVaw3yz9vFUIrAIvKDyCok-mJm
+
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiK97jXnqT1AhX8SvEDHTZ5C8IQFnoECAQQAQ&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs42256-020-0218-x&usg=AOvVaw1tIZXDXhg2r9fWnKakQScc
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjKhay3n6T1AhWNS_EDHZlYA88QFnoECAYQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F2102.12353&usg=AOvVaw040PYsOOYFT_0l40W9KAF3
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwipnZy2oaT1AhXRSvEDHYp5AxAQFnoECAYQAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1906.02226&usg=AOvVaw3hnA6PyPAuOrmNAjcUoF3g
 
 https://causalinference.gitlab.io/books/
 
