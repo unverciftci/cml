@@ -1,5 +1,7 @@
 # cml
 
+https://ftp.cs.ucla.edu/pub/stat_ser/r493-reprint.pdf
+
 https://arxiv.org/pdf/2206.15475.pdf
 
 https://www.microsoft.com/en-us/research/group/causal-inference/projects/
