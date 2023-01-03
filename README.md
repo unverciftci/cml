@@ -125,4 +125,4 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjdzryF
 
 https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle
 
-
+https://www.pymc-labs.io/blog-posts/causalpy-a-new-package-for-bayesian-causal-inference-for-quasi-experiments/
