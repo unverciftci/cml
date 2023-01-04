@@ -1,5 +1,9 @@
 # cml
 
+https://d2cml-ai.github.io/d2cml.ai/
+
+https://github.com/py-why/dowhy/blob/main/docs/source/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.ipynb
+
 https://ftp.cs.ucla.edu/pub/stat_ser/r493-reprint.pdf
 
 https://arxiv.org/pdf/2206.15475.pdf
