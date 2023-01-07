@@ -1,10 +1,22 @@
 # cml
 
+https://ftp.cs.ucla.edu/pub/stat_ser/r514.pdf
+
+https://blog.ml.cmu.edu/2022/11/28/causal-confounds-in-sequential-decision-making/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=email&utm_source=Artificial_Intelligence_Weekly_305
+
+https://openreview.net/pdf?id=TsXe-CyYJqx
+
+https://colab.research.google.com/drive/13Bsvvl5l3uR1hbVdpMAFR13gdjwoJ6if?usp=sharing
+
 https://d2cml-ai.github.io/d2cml.ai/
+
+https://drive.google.com/file/d/1wNyDm2j03YzVW7g8w5NkFdrMakw5lId5/view
 
 https://github.com/py-why/dowhy/blob/main/docs/source/example_notebooks/tutorial-causalinference-machinelearning-using-dowhy-econml.ipynb
 
 https://ftp.cs.ucla.edu/pub/stat_ser/r493-reprint.pdf
+
+https://www.amazon.science/blog/causal-inference-when-treatments-are-continuous-variables
 
 https://arxiv.org/pdf/2206.15475.pdf
 
@@ -27,6 +39,8 @@ https://github.com/quantumblacklabs/causalnex
 
 causality handbook
 https://github.com/matheusfacure/python-causality-handbook
+
+https://lbynum.github.io/interactive-causal-inference/
 
 causal discovery from videos
 https://github.com/pairlab/v-cdn
